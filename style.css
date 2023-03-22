@@ -11,3 +11,16 @@
 .error {
     background: red;
 }
+
+.footer{
+    max-width: 1000px;
+    background-color: black;
+    margin:0 auto;
+    border-radius: 0 0 20px 20px;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
